@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Discord Luk#0696
 
 <!---
 Luk1819/Luk1819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
